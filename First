@@ -1,0 +1,30 @@
+  <!DOCTYPE html> 
+  <html lang="en-us">
+	
+	<head>
+	<meta charset="utf-8"/>
+	<First>My First Code</First>
+	
+	<style>
+	div {
+		width: 600px;
+		height:600px;
+		overflow: hidden;
+	}
+	<?style>
+	
+	</head>
+	
+	<body>
+		<div>
+			<img alt="" src="orge.jpg" />
+		<div>
+		
+		<script>
+			window.alert ("Presenting the orge!");
+			</script>
+			
+	</body>
+	
+	</html>
+	
